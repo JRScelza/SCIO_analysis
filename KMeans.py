@@ -13,7 +13,7 @@ import pandas as pd
 
 
 
-
+#this is a minor change to see if the git is fucking working
 f = '/Users/jeromescelza/Downloads/collection_id-ee03df8e-9f0a-4401-86c8-e12a5ff0493f-14575497083922701883.csv'
 
 sample_df = pd.read_csv(f, skiprows=0)
